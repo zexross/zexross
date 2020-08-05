@@ -2,17 +2,18 @@
 
 ## About me!
 - 🔭 Solving problems associated with Machine Learning | Flutter Tech Editor at [raywenderlich.com][rwsite] | Coordinator of AI Club at my college | Final year B.E undergrad in Electronics and Computer Engineering!
-- 🌱 Currently learning realtime mutliplayer game development 😃
+- 💻 Currently learning realtime mutliplayer game development 😃
 - ✏ Proudly call myself as `Aucomp Enjinia`[Automobile + Computer Engineer]. Built robots, worked on automobiles, and coding everyday🏃‍♂️  
 - 🥅 Interest in self driving cars and robotics in general is always at peak😁, AI in medical field also interests me quite a lot!
-- ⚡ Fun fact: Out of my coding life, I love dismantling and again rebuilding the hardware around me, playing football and watching anime
+- ⚡ Out of my coding life, I love dismantling and again rebuilding the hardware around me, playing football and watching anime
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="zexross.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="yougesh+09 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="yougesh+09 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="yogesh choudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="yougesh_chaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -53,7 +54,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Tensors and TensorFlow](https://medium.com/@zexross/getting-started-with-tensors-and-tensorflow-d93e51f1d1e0)
+- [<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /> Getting started with Tensors and TensorFlow](https://medium.com/@zexross/getting-started-with-tensors-and-tensorflow-d93e51f1d1e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -62,6 +63,7 @@
 
 [website]: https://zexross.me
 [twitter]: https://twitter.com/yougesh_09
+[stackoverflow]: https://stackoverflow.com/users/14038460/yogesh-choudhary
 [instagram]: https://instagram.com/yougesh_chaudhary
 [linkedin]: https://www.linkedin.com/in/yogesh-choudhary-a38100144/
 [rwsite]: https://www.raywenderlich.com/
