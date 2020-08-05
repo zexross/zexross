@@ -1,7 +1,7 @@
 ### Hi there, I'm Yogesh - aka [zexross][website] 👋
 
 ## About me!
-- 🔭 Solving problems associated with Machine Learning | Flutter Tech Editor at [raywenderlich.com][rwsite] | Coordinator of AI Club at me college | Final year B.E undergrad in Electronics and Computer Engineering!
+- 🔭 Solving problems associated with Machine Learning | Flutter Tech Editor at [raywenderlich.com][rwsite] | Coordinator of AI Club at my college | Final year B.E undergrad in Electronics and Computer Engineering!
 - 🌱 Currently learning realtime mutliplayer game development 😃
 - ✏ Proudly call myself as `Aucomp Enjinia`[Automobile + Computer Engineer]. Built robots, worked on automobiles, and coding everyday🏃‍♂️  
 - 🥅 Interest in self driving cars and robotics in general is always at peak😁, AI in medical field also interests me quite a lot!
