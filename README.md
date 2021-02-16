@@ -56,9 +56,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /> Getting started with Tensors and TensorFlow](https://medium.com/@zexross/getting-started-with-tensors-and-tensorflow-d93e51f1d1e0)
-
 - [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> Implicit Animations in FLutter: Getting Started](https://www.raywenderlich.com/18724197-implicit-animations-in-flutter-getting-started)
+
+- [<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /> Getting started with Tensors and TensorFlow](https://medium.com/@zexross/getting-started-with-tensors-and-tensorflow-d93e51f1d1e0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
