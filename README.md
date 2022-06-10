@@ -56,7 +56,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [<img align="left" alt="Flutter" width="26px" src="https://koenig-media.raywenderlich.com/uploads/2020/02/FirebaseFlutter-feature.png" /> Firestore Tutorial for Flutter: Getting Started](https://www.raywenderlich.com/26435435-firestore-tutorial-for-flutter-getting-started)
+- [<img align="left" alt="Flutter" width="26px" src="https://koenig-media.raywenderlich.com/uploads/2020/02/FirebaseFlutter-feature.png" /> Firestore Tutorial for Flutter: Getting Started[Update originaly written by Kevin D Moore]](https://www.raywenderlich.com/26435435-firestore-tutorial-for-flutter-getting-started)
 
 - [<img align="left" alt="Flutter" width="26px" src="https://koenig-media.raywenderlich.com/uploads/2020/12/FlutterImplicitAnimations-feature.png" /> Implicit Animations in Flutter: Getting Started](https://www.raywenderlich.com/18724197-implicit-animations-in-flutter-getting-started)
 
