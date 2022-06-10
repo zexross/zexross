@@ -1,8 +1,8 @@
 ### Hi there, I'm Yogesh - aka [zexross][website] 👋
 
 ## About me!
-- 🔭 Solving problems associated with Machine Learning | Flutter Tech Editor at [raywenderlich.com][rwsite] | Coordinator of AI Club at my college | Final year B.E undergrad in Electronics and Computer Engineering!
-- 💻 Currently learning realtime mutliplayer game development 😃
+- 🔭 Solving problems associated with Machine Learning | Fullstack Stack Developer | Flutter Author & Tech Editor at [raywenderlich.com][rwsite] | Graduated in Electronics & Computer Engineer & Founder/Past-Coordinator of AI Club at [MBM College][mbmcollege]!
+- 💻 Currently learning and expanding domain expertise in mutliple fields with the role of cofounder of an early stage medtech startup [DietOsure Lab][dietosure] 😃
 - ✏ Proudly call myself as `Aucomp Enjinia`[Automobile + Computer Engineer]. Built robots, worked on automobiles, and coding everyday🏃‍♂️  
 - 🥅 Interest in self driving cars and robotics in general is always at peak😁, AI in medical field also interests me quite a lot!
 - ⚡ Out of my coding life, I love dismantling and again rebuilding the hardware around me, playing football and watching anime
@@ -56,8 +56,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> Implicit Animations in FLutter: Getting Started](https://www.raywenderlich.com/18724197-implicit-animations-in-flutter-getting-started)
-
+- [<img align="left" alt="Flutter" width="26px" src="https://koenig-media.raywenderlich.com/uploads/2020/02/FirebaseFlutter-feature.png" /> Firestore Tutorial for Flutter: Getting Started](https://www.raywenderlich.com/26435435-firestore-tutorial-for-flutter-getting-started)
+- [<img align="left" alt="Flutter" width="26px" src="https://koenig-media.raywenderlich.com/uploads/2020/12/FlutterImplicitAnimations-feature.png" /> Implicit Animations in Flutter: Getting Started](https://www.raywenderlich.com/18724197-implicit-animations-in-flutter-getting-started)
 - [<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /> Getting started with Tensors and TensorFlow](https://medium.com/@zexross/getting-started-with-tensors-and-tensorflow-d93e51f1d1e0)
 <!-- BLOG-POST-LIST:END -->
 
@@ -65,8 +65,10 @@
 
 <img align="left" alt="Yogesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zexross&show_icons=true&hide_border=true" />
 
-[website]: https://zexross.me
+[website]: https://zexross.github.io/myportfolio
 [twitter]: https://twitter.com/yougesh_09
+[dietosure]: https://www.dietosure.com
+[mbmcollege]: https://en.wikipedia.org/wiki/M.B.M._University 
 [stackoverflow]: https://stackoverflow.com/users/14038460/yogesh-choudhary
 [instagram]: https://instagram.com/yougesh_chaudhary
 [linkedin]: https://www.linkedin.com/in/yogesh-choudhary-a38100144/
