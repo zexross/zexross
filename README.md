@@ -2,7 +2,7 @@
 
 ## About me!
 - 🔭 Solving problems associated with Machine Learning | Fullstack Stack Developer | Flutter Author & Tech Editor at [raywenderlich.com][rwsite] | Graduated in Electronics & Computer Engineer & Founder/Past-Coordinator of AI Club at [MBM College][mbmcollege]!
-- 💻 Currently learning and expanding domain expertise in multiple fields with the role of co-founder of an early-stage medtech startup [DietOsure Lab][dietosure] 😃
+- 💻 Currently learning and expanding domain expertise in multiple fields with the role of co-founder of an early-stage healthtech startup [DietOsure Lab][dietosure] 😃
 - ✏ Proudly call myself as `Aucomp Enjinia`[Automobile + Computer Engineer]. Built robots, worked on automobiles, and coding everyday🏃‍♂️  
 - 🥅 Interest in self-driving cars and robotics in general is always at its peak😁, AI in medical field also interests me quite a lot!
 - ⚡ Out of my coding life, I love dismantling and again rebuilding the hardware around me, playing football and watching anime
