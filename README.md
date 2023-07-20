@@ -56,7 +56,8 @@
 
 ### 📹 Video Courses
 <!-- Video-LIST:START -->
-- [<img align="left" alt="Flutter" width="26px" src="https://assets.robles.kodeco.com/videos/600e40bf505b637d788a4745de3393c83a16ea0c2943910b25f2c75b172a732f/images/b0cf0b9236830d1645689babd2c2ac53/original.png" /> Flutter Hero Animations[Intructor - Kevin D Moore, Content Creator - Yogesh Choudhary, Illustrator - Adriana Kutenko, Final Pass Editor - Brian Moakley]](https://www.kodeco.com/37782226-flutter-hero-animations)
+- [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> Flutter Hero Animations[Intructor - Kevin D Moore, Content Creator - Yogesh Choudhary, Illustrator - Adriana Kutenko, Final Pass Editor - Brian Moakley]](https://www.kodeco.com/37782226-flutter-hero-animations)
+- - [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> Implicit Flutter Animations [Originaly instructed by Emmanuel Okiche, Updated by Yogesh Choudhary]](https://www.kodeco.com/35152250-implicit-flutter-animations)
 <!-- Video-LIST:END -->
 
 ### 📕 Latest Blog Posts
