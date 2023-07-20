@@ -2,9 +2,9 @@
 
 ## About me!
 - 🔭 Solving problems associated with Machine Learning | Fullstack Stack Developer | Flutter Author & Tech Editor at [raywenderlich.com][rwsite] | Graduated in Electronics & Computer Engineer & Founder/Past-Coordinator of AI Club at [MBM College][mbmcollege]!
-- 💻 Currently learning and expanding domain expertise in mutliple fields with the role of cofounder of an early stage medtech startup [DietOsure Lab][dietosure] 😃
+- 💻 Currently learning and expanding domain expertise in multiple fields with the role of co-founder of an early-stage medtech startup [DietOsure Lab][dietosure] 😃
 - ✏ Proudly call myself as `Aucomp Enjinia`[Automobile + Computer Engineer]. Built robots, worked on automobiles, and coding everyday🏃‍♂️  
-- 🥅 Interest in self driving cars and robotics in general is always at peak😁, AI in medical field also interests me quite a lot!
+- 🥅 Interest in self-driving cars and robotics in general is always at its peak😁, AI in medical field also interests me quite a lot!
 - ⚡ Out of my coding life, I love dismantling and again rebuilding the hardware around me, playing football and watching anime
 
 ### Connect with me:
@@ -53,6 +53,11 @@
 <br />
 
 ---
+
+### 📹 Video Courses
+<!-- Video-LIST:START -->
+- [<img align="left" alt="Flutter" width="26px" src="https://assets.robles.kodeco.com/videos/600e40bf505b637d788a4745de3393c83a16ea0c2943910b25f2c75b172a732f/images/b0cf0b9236830d1645689babd2c2ac53/original.png" /> Flutter Hero Animations[Intructor - Kevin D Moore, Content Creator - Yogesh Choudhary, Illustrator - Adriana Kutenko, Final Pass Editor - Brian Moakley]](https://www.kodeco.com/37782226-flutter-hero-animations)
+<!-- Video-LIST:END -->
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
